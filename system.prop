@@ -47,9 +47,6 @@ debug.sf.enable_gl_backpressure=1
 debug.sf.latch_unsignaled=1
 debug.sf.recomputecrop=0
 
-# fastbootd
-ro.fastbootd.available=true
-
 # GL
 ro.opengles.version=196608 
 
@@ -63,7 +60,6 @@ ro.qc.sdk.izat.service_mask=0x0
 ro.sensor.proximity=true
 
 # perf api
-ro.rom.builder=Jprimero15
 ro.vendor.extension_library=/vendor/lib/libqti-perfd-client.so
 
 # Mdcomp
